@@ -13,7 +13,7 @@ import com.devsuperior.dsmeta.entities.Sale;
 import com.devsuperior.dsmeta.repositories.SaleRepository;
 
 @Service
-public class SalesService {
+public class SaleService {
 	
 	@Autowired
 	private SaleRepository repository;
